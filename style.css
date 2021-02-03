@@ -1,0 +1,12 @@
+body {
+    background-color: #111;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    background-color: #555;
+    padding-top: 20px;
+}
